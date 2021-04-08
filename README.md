@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Soooomininini/Soooomininini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🏝🐚🌊 FE Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's talk about Soomin.
+
+***
+
+hi, I'm a FE developer looking for fascinating things I can do!
+
+Love to dive in to the exact 'it'!
+
+* Javascript 
+
+
+
+![Tech Blog Badge](https://img.shields.io/badge/Blog-SoomingWorld-%2365eef1)
+
+![Gmail](https://img.shields.io/badge/Gmail-here-red)
+
