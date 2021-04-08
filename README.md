@@ -1,6 +1,6 @@
 
 
-🏝🐚🌊 FE Developer
+🏝🐚🌊 DevOnBeach FE Developer
 
 ### Let's talk about Soomin.
 
