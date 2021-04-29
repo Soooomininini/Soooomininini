@@ -2,7 +2,7 @@
 
 🏝🐚🌊 FE Developer
 
-### Soomin the FE Developer.
+Soomin Lee
 
 ***
 
