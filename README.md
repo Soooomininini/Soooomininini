@@ -1,16 +1,15 @@
 
 
-🏝🐚🌊 DevOnBeach FE Developer
+🏝🐚🌊 FE Developer
 
-### Let's talk about Soomin.
+### Soomin the FE Developer.
 
 ***
 
 hi, I'm a FE developer looking for fascinating things I can do!
 
-Love to dive in to the exact 'it'!
-
  ✨Javascript 
+ ✨C#
 
 
 
