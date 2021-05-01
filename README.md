@@ -1,19 +1,12 @@
-
-
-🏝🐚🌊 FE Developer
-
-Soomin Lee
-
-***
-
-hi, I'm a FE developer looking for fascinating things I can do!
-
- ✨Javascript 
- ✨C#
+# Soomin Lee
+### 🏝 FE Developer
+<p>
+Hi! <br>
+I'm a FE Developer, loving to dive into the new thing!
+<br><br>
+</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soooomininini)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-![Tech Blog Badge](https://img.shields.io/badge/Blog-SoomingWorld-%2365eef1)
-
-![Gmail](https://img.shields.io/badge/Gmail-here-red)
 
