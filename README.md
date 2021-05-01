@@ -9,4 +9,3 @@ I'm a FE Developer, loving to dive into the new thing!
 </p>
 
 ![Soooomininini's github stats](https://github-readme-stats.vercel.app/api?username=Soooomininini&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Soooomininini)](https://solved.ac/Soooomininini)
