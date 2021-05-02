@@ -2,6 +2,16 @@
 
 ## FE Developer&nbsp; 🏝 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoooomininini%2Fhit-counter&count_bg=%232CC6ED&title_bg=%230533DF&icon=&icon_color=%232CC6ED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
+<br>
+
+[![Tech Blog Badge](https://img.shields.io/static/v1?label=Tistory&message=Soomingworld&color=bae8e8&labelColor=272343&link=https://soomingworld.tistory.com/)](https://soomingworld.tistory.com/)
+
+<br>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Notion%20Page-lightgrey?style=flat&logo=notion&link=https://Soooomininini.github.io/)](https://Soooomininini.github.io/) &nbsp; 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ananan199568@gmail.com)](mailto:ananan199568@gmail.com)
+
+<br>
 <p>
 더 나은 방법을 끊임없이 고민하는 개발자입니다.<br>
 언제나 즐겁게, 열심히.
@@ -64,7 +74,9 @@ Contents | Level| Acquisition Date|
 SQLD | Developer | 2019.12.31
 데이터 분석 준전문가(ADsP) | 준전문가 | 2019.12.24
 
-<br><br>
+<br>
+<br>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer&fontSize=90)
 
