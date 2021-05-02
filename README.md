@@ -19,9 +19,9 @@ I'm a FE Developer, loving to dive into the World!
 
 
 ## Recent Interests
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1619919839~hmac=79d56ae12b3535e536e3850ecca02acc" width="15px">&nbsp; Javascript <br>
-<img src="https://www.flaticon.com/premium-icon/icons/svg/15/15476.svg" width="15px">&nbsp; Apple Silicon M1 <br>
-<img src="https://www.flaticon.com/svg/vstatic/svg/566/566067.svg?token=exp=1619920033~hmac=8a26b880517212eae70a2922928b03d2" width="15px"> &nbsp;Network
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1619919839~hmac=79d56ae12b3535e536e3850ecca02acc" width="15px">&nbsp; [Javascript](https://www.notion.so/Javascript-1bc189951dc34f358a6f6b8f0fea267f)  <br>
+<img src="https://www.flaticon.com/premium-icon/icons/svg/15/15476.svg" width="15px">&nbsp; [Apple Silicon M1](https://www.notion.so/Apple-Silicon-856fa04c0e62461e89ad1af3056a99c4) <br>
+<img src="https://www.flaticon.com/svg/vstatic/svg/566/566067.svg?token=exp=1619920033~hmac=8a26b880517212eae70a2922928b03d2" width="15px"> &nbsp;[Network](https://www.notion.so/Network-Knowledge-efba9e4160854d749f79f65a0187cfc7)
 
 <br>
 
@@ -32,6 +32,7 @@ I'm a FE Developer, loving to dive into the World!
 
  <img src="https://www.flaticon.com/svg/vstatic/svg/3079/3079165.svg?token=exp=1619921057~hmac=ce7cba706fcb2aa49c5a0eac16e3d3a6" width="17px"> &nbsp;Notion 에서 Tistory로 업로드 자동화하기(Automating Post Uploading from Notion to Tistory blog ): [개발 일지 보러가기](https://www.notion.so/Project-b4fd7ade50754856b9f2ddc990876661)
 
+<br>
 
 ## PS Capability
 
