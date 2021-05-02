@@ -8,7 +8,6 @@
 &nbsp; [![Tech Blog Badge](http://img.shields.io/badge/-Notion%20Page-lightgrey?style=flat&logo=notion&link=https://Soooomininini.github.io/)](https://Soooomininini.github.io/) &nbsp; 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ananan199568@gmail.com)](mailto:ananan199568@gmail.com)
 
-<br>
 <p>
 더 나은 방법을 끊임없이 고민하는 개발자입니다.<br>
 언제나 즐겁게, 열심히.
