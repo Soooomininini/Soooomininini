@@ -17,32 +17,26 @@ I'm a FE Developer, loving to dive into the World!
 </p>
 <br>
 
-## Recently 
-매일 노션에 그날 공부했던 내용을 기록합니다.
+
+## Recent Interests
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1619919839~hmac=79d56ae12b3535e536e3850ecca02acc" width="15px">&nbsp; Javascript <br>
+<img src="https://www.flaticon.com/premium-icon/icons/svg/15/15476.svg" width="15px">&nbsp; XCode, LLDB <br>
+<img src="https://www.flaticon.com/svg/vstatic/svg/566/566067.svg?token=exp=1619920033~hmac=8a26b880517212eae70a2922928b03d2" width="15px"> &nbsp;Network Concepts
+
+
+
+## Daily Study 
+매일 노션에 그날 공부했던 내용을 기록합니다.<br>
 Daily Study on Notion <br>
 [노션 기록 보러가기](https://www.notion.so/0fa27856782f408792e53edef3080feb)
 <br>
-<br>
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1619919839~hmac=79d56ae12b3535e536e3850ecca02acc" width="15px">&nbsp; Javascript <br>
-<img src="https://www.flaticon.com/premium-icon/icons/svg/15/15476.svg" width="15px">&nbsp; LLDB, XCode, <br>
-<img src="https://www.flaticon.com/svg/vstatic/svg/566/566067.svg?token=exp=1619920033~hmac=8a26b880517212eae70a2922928b03d2" width="15px"> &nbsp;Network Concepts
-<br>
-<br>
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soooomininini&layout=compact)](https://github.com/Soooomininini/github-readme-stats) 
-
-![Soooomininini's github stats](https://github-readme-stats.vercel.app/api?username=Soooomininini&show_icons=true&theme=tokyonight&count_private=true)
-
-<br>
 
 ## Projects
   <img src="https://www.flaticon.com/svg/vstatic/svg/1069/1069159.svg?token=exp=1619920983~hmac=abeb6dbcfd65b811ff6482474c6a4d24" width="17px"> &nbsp;티스토리 스킨 개발 (Tistory Blog Skin Development) : [스킨 보러가기](https://testingworld.tistory.com)
   
 
  <img src="https://www.flaticon.com/svg/vstatic/svg/3079/3079165.svg?token=exp=1619921057~hmac=ce7cba706fcb2aa49c5a0eac16e3d3a6" width="17px"> &nbsp; Notion 에서 Tistory로 업로드 자동화하기(Automating Post Uploading from Notion to Tistory blog ): [개발 일지 보러가기](https://www.notion.so/Project-b4fd7ade50754856b9f2ddc990876661)
-<br><br>
-
 
 
 ## PS Capability
@@ -52,7 +46,15 @@ Daily Study on Notion <br>
   
 <br>
 
+<br>
 
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soooomininini&layout=compact)](https://github.com/Soooomininini/github-readme-stats) 
+
+![Soooomininini's github stats](https://github-readme-stats.vercel.app/api?username=Soooomininini&show_icons=true&theme=tokyonight&count_private=true)
+
+<br>
 
 ## 🎓 Education
 
