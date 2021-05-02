@@ -4,7 +4,7 @@
 
 
 [![Tech Blog Badge](https://img.shields.io/static/v1?label=Tistory&message=Soomingworld&color=bae8e8&labelColor=272343&link=https://soomingworld.tistory.com/)](https://soomingworld.tistory.com/)
-&nbsp; [![Tech Blog Badge](http://img.shields.io/badge/-Notion%20Page-lightgrey?style=flat&logo=notion&link=https://Soooomininini.github.io/)](https://Soooomininini.github.io/) &nbsp; 
+&nbsp; [![Tech Blog Badge](http://img.shields.io/badge/-Notion%20Page-lightgrey?style=flat&logo=notion&link=https://www.notion.so/Soomin-1b66e1d1889b455eb1bef4fa92aecc21/)](https://www.notion.so/Soomin-1b66e1d1889b455eb1bef4fa92aecc21) &nbsp; 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ananan199568@gmail.com)](mailto:ananan199568@gmail.com)
 
 <p>
@@ -35,7 +35,7 @@ I'm a FE Developer, loving to dive into the World!
   <img src="https://www.flaticon.com/svg/vstatic/svg/1069/1069159.svg?token=exp=1619920983~hmac=abeb6dbcfd65b811ff6482474c6a4d24" width="17px"> &nbsp;티스토리 스킨 개발 (Tistory Blog Skin Development) : [스킨 보러가기](https://testingworld.tistory.com)
   
 
- <img src="https://www.flaticon.com/svg/vstatic/svg/3079/3079165.svg?token=exp=1619921057~hmac=ce7cba706fcb2aa49c5a0eac16e3d3a6" width="17px"> &nbsp;Notion 에서 Tistory로 업로드 자동화하기(Automating Post Uploading from Notion to Tistory blog ): [개발 일지 보러가기](https://www.notion.so/Project-b4fd7ade50754856b9f2ddc990876661)
+ <img src="https://www.flaticon.com/svg/vstatic/svg/3079/3079165.svg?token=exp=1619921057~hmac=ce7cba706fcb2aa49c5a0eac16e3d3a6" width="17px"> &nbsp;<i>(진행중)</i> Notion 에서 Tistory로 업로드 자동화하기(Automating Post Uploading from Notion to Tistory blog ): [개발 일지 보러가기](https://www.notion.so/Project-b4fd7ade50754856b9f2ddc990876661)
 
 <br>
 
