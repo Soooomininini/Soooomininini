@@ -36,19 +36,15 @@ Daily Study on Notion <br>
   <img src="https://www.flaticon.com/svg/vstatic/svg/1069/1069159.svg?token=exp=1619920983~hmac=abeb6dbcfd65b811ff6482474c6a4d24" width="17px"> &nbsp;티스토리 스킨 개발 (Tistory Blog Skin Development) : [스킨 보러가기](https://testingworld.tistory.com)
   
 
- <img src="https://www.flaticon.com/svg/vstatic/svg/3079/3079165.svg?token=exp=1619921057~hmac=ce7cba706fcb2aa49c5a0eac16e3d3a6" width="17px"> &nbsp; Notion 에서 Tistory로 업로드 자동화하기(Automating Post Uploading from Notion to Tistory blog ): [개발 일지 보러가기](https://www.notion.so/Project-b4fd7ade50754856b9f2ddc990876661)
+ <img src="https://www.flaticon.com/svg/vstatic/svg/3079/3079165.svg?token=exp=1619921057~hmac=ce7cba706fcb2aa49c5a0eac16e3d3a6" width="17px"> &nbsp;Notion 에서 Tistory로 업로드 자동화하기(Automating Post Uploading from Notion to Tistory blog ): [개발 일지 보러가기](https://www.notion.so/Project-b4fd7ade50754856b9f2ddc990876661)
 
 
 ## PS Capability
 
 
-  <img src="https://www.flaticon.com/svg/vstatic/svg/2103/2103620.svg?token=exp=1619921348~hmac=153c4993be84962b8502374feaa0ec73" width="17px">&nbsp; 정보올림피아드 문제풀이 알고리즘 스터디 운영(JUNGOL Algorithm Study Group) : [문제풀이 기록 보러가기](https://www.notion.so/a538d6e508264366aca7d3cecfb1fcbf?v=d5be3f4f042f414592756182d3208966)
+  <img src="https://www.flaticon.com/svg/vstatic/svg/2103/2103620.svg?token=exp=1619921348~hmac=153c4993be84962b8502374feaa0ec73" width="17px">&nbsp;정보올림피아드 문제풀이 알고리즘 스터디 운영(JUNGOL Algorithm Study Group) : [문제풀이 기록 보러가기](https://www.notion.so/a538d6e508264366aca7d3cecfb1fcbf?v=d5be3f4f042f414592756182d3208966)
   
 <br>
-
-<br>
-
-
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soooomininini&layout=compact)](https://github.com/Soooomininini/github-readme-stats) 
 
