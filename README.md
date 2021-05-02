@@ -19,9 +19,9 @@ I'm a FE Developer, loving to dive into the World!
 
 
 ## Recent Interests
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1619919839~hmac=79d56ae12b3535e536e3850ecca02acc" width="15px">&nbsp; [Javascript](https://www.notion.so/Javascript-1bc189951dc34f358a6f6b8f0fea267f)  <br>
-<img src="https://www.flaticon.com/premium-icon/icons/svg/15/15476.svg" width="15px">&nbsp; [Apple Silicon M1](https://www.notion.so/Apple-Silicon-856fa04c0e62461e89ad1af3056a99c4) <br>
-<img src="https://www.flaticon.com/svg/vstatic/svg/566/566067.svg?token=exp=1619920033~hmac=8a26b880517212eae70a2922928b03d2" width="15px"> &nbsp;[Network](https://www.notion.so/Network-Knowledge-efba9e4160854d749f79f65a0187cfc7)
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1619919839~hmac=79d56ae12b3535e536e3850ecca02acc" width="17px">&nbsp; [Javascript](https://www.notion.so/Javascript-1bc189951dc34f358a6f6b8f0fea267f)  <br>
+<img src="https://www.flaticon.com/premium-icon/icons/svg/15/15476.svg" width="17px">&nbsp; [Apple Silicon M1](https://www.notion.so/Apple-Silicon-856fa04c0e62461e89ad1af3056a99c4) <br>
+<img src="https://www.flaticon.com/svg/vstatic/svg/566/566067.svg?token=exp=1619920033~hmac=8a26b880517212eae70a2922928b03d2" width="17px"> &nbsp;[Network](https://www.notion.so/Network-Knowledge-efba9e4160854d749f79f65a0187cfc7)
 
 <br>
 
