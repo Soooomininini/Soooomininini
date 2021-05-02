@@ -16,8 +16,8 @@ I'm a FE Developer, loving to dive into the World!
 
 </p>
 
-### Recently 
-****
+## Recently 
+
 Daily Study on Notion [노션 기록 보러가기](https://www.notion.so/0fa27856782f408792e53edef3080feb)
 <br>
 <br>
