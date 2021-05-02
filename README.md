@@ -2,7 +2,6 @@
 
 ## FE Developer&nbsp; 🏝 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoooomininini%2Fhit-counter&count_bg=%232CC6ED&title_bg=%230533DF&icon=&icon_color=%232CC6ED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-<br>
 
 [![Tech Blog Badge](https://img.shields.io/static/v1?label=Tistory&message=Soomingworld&color=bae8e8&labelColor=272343&link=https://soomingworld.tistory.com/)](https://soomingworld.tistory.com/)
 &nbsp; [![Tech Blog Badge](http://img.shields.io/badge/-Notion%20Page-lightgrey?style=flat&logo=notion&link=https://Soooomininini.github.io/)](https://Soooomininini.github.io/) &nbsp; 
