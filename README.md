@@ -15,6 +15,16 @@ I'm a FE Developer, loving to dive into the World!
 💜 which is done <i>Enthusiastically, Immersively</i>
 
 </p>
+
+### Recently 
+****
+Daily Study on Notion [노션 기록 보러가기](https://www.notion.so/0fa27856782f408792e53edef3080feb)
+<br>
+<br>
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1619919839~hmac=79d56ae12b3535e536e3850ecca02acc" width="15px">&nbsp; Javascript Syntax and Concepts <br>
+<img src="https://www.flaticon.com/premium-icon/icons/svg/15/15476.svg" width="15px">&nbsp; LLDB, XCode, <br>
+<img src="https://www.flaticon.com/svg/vstatic/svg/566/566067.svg?token=exp=1619920033~hmac=8a26b880517212eae70a2922928b03d2" width="15px"> &nbsp;Network Concepts
+<br>
 <br>
 
 
@@ -22,12 +32,9 @@ I'm a FE Developer, loving to dive into the World!
 
 ![Soooomininini's github stats](https://github-readme-stats.vercel.app/api?username=Soooomininini&show_icons=true&theme=tokyonight&count_private=true)
 
-<br>
 
-### Recently 
-****
-- Javascript Syntax and Concepts
-- <img src="https://www.flaticon.com/premium-icon/icons/svg/15/15476.svg" width="15px">&nbsp; LLDB, XCode, 
+
+
 
 ### Projects
 ***
