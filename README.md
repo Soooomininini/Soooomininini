@@ -5,10 +5,7 @@
 <br>
 
 [![Tech Blog Badge](https://img.shields.io/static/v1?label=Tistory&message=Soomingworld&color=bae8e8&labelColor=272343&link=https://soomingworld.tistory.com/)](https://soomingworld.tistory.com/)
-
-<br>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Notion%20Page-lightgrey?style=flat&logo=notion&link=https://Soooomininini.github.io/)](https://Soooomininini.github.io/) &nbsp; 
+&nbsp; [![Tech Blog Badge](http://img.shields.io/badge/-Notion%20Page-lightgrey?style=flat&logo=notion&link=https://Soooomininini.github.io/)](https://Soooomininini.github.io/) &nbsp; 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ananan199568@gmail.com)](mailto:ananan199568@gmail.com)
 
 <br>
