@@ -20,15 +20,9 @@ I'm a FE Developer, loving to dive into the World!
 
 ## Recent Interests
 <img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1619919839~hmac=79d56ae12b3535e536e3850ecca02acc" width="15px">&nbsp; Javascript <br>
-<img src="https://www.flaticon.com/premium-icon/icons/svg/15/15476.svg" width="15px">&nbsp; XCode, LLDB <br>
-<img src="https://www.flaticon.com/svg/vstatic/svg/566/566067.svg?token=exp=1619920033~hmac=8a26b880517212eae70a2922928b03d2" width="15px"> &nbsp;Network Concepts
+<img src="https://www.flaticon.com/premium-icon/icons/svg/15/15476.svg" width="15px">&nbsp; Apple Silicon M1 <br>
+<img src="https://www.flaticon.com/svg/vstatic/svg/566/566067.svg?token=exp=1619920033~hmac=8a26b880517212eae70a2922928b03d2" width="15px"> &nbsp;Network
 
-
-
-## Daily Study 
-매일 노션에 그날 공부했던 내용을 기록합니다.<br>
-Daily Study on Notion <br>
-[노션 기록 보러가기](https://www.notion.so/0fa27856782f408792e53edef3080feb)
 <br>
 
 
