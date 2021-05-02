@@ -15,6 +15,7 @@ I'm a FE Developer, loving to dive into the World!
 💜 which is done <i>Enthusiastically, Immersively</i>
 
 </p>
+<br>
 
 ## Recently 
 
@@ -36,8 +37,7 @@ Daily Study on Notion [노션 기록 보러가기](https://www.notion.so/0fa2785
 
 
 
-### Projects
-***
+## Projects
  - 티스토리 스킨 개발 (Tistory Blog Skin Development) : [스킨 보러가기](https://testingworld.tistory.com)
   
 
@@ -46,8 +46,8 @@ Daily Study on Notion [노션 기록 보러가기](https://www.notion.so/0fa2785
 
 
 
-### PS Capability
-***
+## PS Capability
+
 
 - 정보올림피아드 문제풀이 알고리즘 스터디 운영(JUNGOL Algorithm Study Group) : [문제풀이 기록 보러가기](https://www.notion.so/a538d6e508264366aca7d3cecfb1fcbf?v=d5be3f4f042f414592756182d3208966)
   
@@ -55,7 +55,7 @@ Daily Study on Notion [노션 기록 보러가기](https://www.notion.so/0fa2785
 
 
 
-### Education
+## Education
 
 
 Type |  Date | Contents | Organization
@@ -66,7 +66,7 @@ High School | 2011.3 - 2014.2 | 일본어과 | 성남외국어고등학교 (Seon
 
  <br>
 
-### Certificates
+## Certificates
 Contents | Level| Acquisition Date|
  ---| --- | ---|
 SQLD | Developer | 2019.12.31
