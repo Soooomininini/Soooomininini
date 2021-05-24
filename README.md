@@ -13,7 +13,7 @@
 </p>
 <p>
 Hi! 🙌 <br>
-I'm a FE Developer, loving to dive into the World!
+I'm a FE Developer, loving to look around for something 'interesting'.
 <br><br>
 🌱 Explore, and see what could be <i>'better'</i><br>
 👊 Go on and <i>fix</i> it! <br>
