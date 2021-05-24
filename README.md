@@ -15,7 +15,7 @@
 Hi! 🙌 <br>
 I'm a FE Developer, loving to dive into the World!
 <br><br>
-🌱 Explore, and see what needs to be <i>'better'</i><br>
+🌱 Explore, and see what could be <i>'better'</i><br>
 👊 Go on and <i>fix</i> it! <br>
 💜 which is done <i>Enthusiastically, Immersively</i>
 
