@@ -16,7 +16,6 @@
 👊 Go on and <i>fix</i> it! <br>
 💜  <i>Enthusiastically, Immersively</i>
 </p>
-<br>
 
 ## Projects
    🖥&nbsp;티스토리 스킨 개발(Tistory Blog Skin Development) : [스킨 보러가기](https://testingworld.tistory.com)
@@ -28,7 +27,6 @@
 ## Knowledge
   💎&nbsp; CS 배경지식 공부(Setting up a background knowledge for Computer Science) : [보러가기](https://subdued-zenith-507.notion.site/0fa27856782f408792e53edef3080feb)
 <br>
-
 ## 🎓 Education
 Type |  Date | Contents | Organization
 ------ | ----- | ----- | ----- 
