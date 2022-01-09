@@ -19,6 +19,7 @@
 
 ## Projects
    🖥&nbsp;티스토리 스킨 개발(Tistory Blog Skin Development) : [스킨 보러가기](https://testingworld.tistory.com)
+   <br>
    📒&nbsp;<i>(진행중)</i> Notion 에서 Tistory로 업로드 자동화하기(Automating Post Uploading, from Notion to Tistory blog) : [개발 일지 보러가기](https://www.notion.so/Project-b4fd7ade50754856b9f2ddc990876661)
 
 ## PS Capability
